@@ -1,0 +1,3 @@
+[submodule "mini"]
+	path = mini
+	url = https://github.com/fail0verflow/mini

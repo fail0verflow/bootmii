@@ -1,0 +1,7 @@
+*.d
+*.bin
+*.elf
+*.o
+*.map
+loader_version.txt
+

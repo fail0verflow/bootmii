@@ -1,0 +1,1 @@
+mini/common.mk

@@ -1,0 +1,8 @@
+git_version.h
+*.d
+*.bin
+*.elf
+*.map
+*~
+*.o
+.*.swp
