@@ -5,7 +5,7 @@ bootmii.bin:
 	@$(MAKE) -C loader
 	@$(MAKE) -C stub
 	@$(MAKE) -C resetstub
-	python2 mini/makebin.py stub/bootmii.bin resetstub/resetstub.elf bootmii.bin
+	python3 mini/makebin.py stub/bootmii.bin resetstub/resetstub.elf bootmii.bin
 
 clean:
 	@$(MAKE) -C loader clean
